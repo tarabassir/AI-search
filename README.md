@@ -1,4 +1,5 @@
 Project description
+
 The Los Angeles Lakers are playing against their rivals the Boston Celtics tonight. Lakers star Jordan Clarkson wants to arrive earlier today to prepare himself for the game, and he is leaving from his mansion at Newport Coast to Staples Center. As everyone knows, Los Angeles is notorious for its traffic. Driving his 2016 Lamborghini Aventador, Jordan definitely does not want to be stuck in traffic. Please help Jordan find a route to get him to Staples Center as fast as possible.
 To accomplish this, you will be given a list of freeway or road intersections (i.e., locations) and the time it would take to travel from there to other freeway or road intersections. You will be required to create a program that finds the fastest route Jordan must travel to get to Staples Center.
 Your program will be given live traffic information in the input.txt file, which is an arbitrarily large list of current traveling times between intersections/locations. An example live traffic data would be a list of intersections to intersections with traveling time (in minutes), in the following format (see below for the full specification of input.txt):
